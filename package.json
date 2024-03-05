@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo bloqueante en nodejs",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DstudioVisual/bloqueante.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "David Alexis Bustillos Aguirre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DstudioVisual/bloqueante/issues"
+  },
+  "homepage": "https://github.com/DstudioVisual/bloqueante#readme"
+}
